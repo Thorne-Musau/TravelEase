@@ -11,7 +11,7 @@ TravelEase is a web application designed to help users plan their trips, explore
 - [Usage](#usage)
 - [File Structure](#file-structure)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
@@ -25,7 +25,7 @@ TravelEase is a web application designed to help users plan their trips, explore
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/travelease.git
+    git clone https://github.com/Thorne-Musau/travelease.git
     ```
 2. Navigate to the project directory:
     ```sh
@@ -79,6 +79,3 @@ TravelEase is a web application designed to help users plan their trips, explore
 
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
