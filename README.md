@@ -2,7 +2,7 @@
 
 TravelEase is a web application designed to help users plan their trips, explore destinations, and manage their itineraries. The application provides features such as destination search, trip planning forms, dynamic carousels for featured destinations, testimonials, and travel tips.
 
-![Landing Page](Task%201.1/landing.png)
+![Landing Page](https://github.com/Thorne-Musau/TravelEase/blob/main/landing.jpg)
 
 ## Table of Contents
 
