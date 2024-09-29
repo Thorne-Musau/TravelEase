@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Destinations - TravelEase</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="plan.html">Plan Your Trip</a></li>
+                <li><a href="destinations.html" class="active">Destinations</a></li>
+                <li><a href="itinerary.html">My Itinerary</a></li>
+                <li><a href="tips.html">Travel Tips</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h1>Explore Destinations</h1>
+        <div class="filters">
+            <label for="continent">Continent:</label>
+            <select id="continent">
+                <option value="">All</option>
+                <option value="africa">Africa</option>
+                <option value="asia">Asia</option>
+                <option value="europe">Europe</option>
+                <option value="north-america">North America</option>
+                <option value="south-america">South America</option>
+                <option value="oceania">Oceania</option>
+            </select>
+
+            <label for="climate">Climate:</label>
+            <select id="climate">
+                <option value="">All</option>
+                <option value="tropical">Tropical</option>
+                <option value="arid">Arid</option>
+                <option value="mediterranean">Mediterranean</option>
+                <option value="temperate">Temperate</option>
+                <option value="continental">Continental</option>
+                <option value="polar">Polar</option>
+            </select>
+        </div>
+
+        <div id="destinations-grid" class="destinations-grid">
+            <!-- Destinations will be dynamically added here -->
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 TravelEase. All rights reserved.</p>
+    </footer>
+</body>
+</html>
