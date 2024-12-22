@@ -1,4 +1,4 @@
-# TravelEase - Your Personal Travel Planner
+# TravelEase - Your Personal Travel Planner.
 
 TravelEase is a web application designed to help users plan their trips, explore destinations, and manage their itineraries. The application provides features such as destination search, trip planning forms, dynamic carousels for featured destinations, testimonials, and travel tips.
 
@@ -78,4 +78,3 @@ TravelEase is a web application designed to help users plan their trips, explore
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
-
